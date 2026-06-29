@@ -35,7 +35,8 @@ Determining per-frame pairwise social interactions from geometric cues (interper
 
 ## Data Release
 
-The dataset is currently under preparation for public release, pending institutional review for privacy compliance. All data will undergo full de-identification before release. This page will be updated with download links upon availability.
+The dataset is currently under preparation for public release. 
+This page will be updated with download links upon availability.
 
 For early access or collaboration inquiries, please contact us at the email below.
 
