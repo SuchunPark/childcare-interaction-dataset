@@ -59,4 +59,5 @@ If you use this dataset, please cite:
 
 ## Contact
 
-**Suchun Park** — suchun.park@yonsei.ac.kr
+Primary: **Suchun Park** — suchun.park@yonsei.ac.kr
+Secondary: **Jihwan Kim** — jihwan.kim.cs@yonsei.ac.kr
